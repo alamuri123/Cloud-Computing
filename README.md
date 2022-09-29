@@ -71,9 +71,15 @@ expno:16
 ![image](https://user-images.githubusercontent.com/113335352/192941121-f9d822c9-7e15-427f-9f3d-4f8be1351565.png)
 
 expno:17
-
-
 expno:18
+![image](https://user-images.githubusercontent.com/113335352/192944780-8e5ac9ba-51dd-4361-88de-ade99080d39f.png)
+![image](https://user-images.githubusercontent.com/113335352/192945084-74ad2271-d6d4-460a-9669-bc0215307f5f.png)
+![image](https://user-images.githubusercontent.com/113335352/192945141-915425e1-1314-4035-9473-e52492a082ec.png)
+![image](https://user-images.githubusercontent.com/113335352/192945304-bfd853f7-a9be-4efa-b9c2-f282c00d44c6.png)
+![image](https://user-images.githubusercontent.com/113335352/192945421-929096f6-b840-49d7-a91d-52b503ca34ad.png)
+![image](https://user-images.githubusercontent.com/113335352/192945922-24df90f0-1bbd-4400-a82f-b64d9f246a97.png)
+![image](https://user-images.githubusercontent.com/113335352/192947621-183124a6-aafc-4583-b99d-2230666a1c8d.png)
+
 
 
 
